@@ -50,3 +50,7 @@ input[type="text"] {
     transform: rotate(360deg);
   }
 }
+
+.founded-item{
+  margin-bottom: 1rem;
+}
